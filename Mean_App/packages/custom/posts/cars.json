@@ -1,0 +1,22 @@
+{
+		"car1" : {
+				"id" : "1",
+				"name": "2010 Toyota 4Runner - $15000",
+				"time" : "Posted: a day ago",	
+				"Image" : "/posts/assets/img/car1.jpg",
+				"Description" : "2010 Toyota",
+				"Condition" : "Excellent",
+				"Transmission" : "Automatic",
+				"KBB" : "$13000"	
+			},
+		"car2" : {
+				"id" : "2",
+				"name": "2013 Ferrari - $100000",
+				"time" : "Posted: a day ago",
+				"Image" : "/posts/assets/img/ferrari.png",
+				"Description" : "2013 Ferrari sports model well maintained and good pickup",
+				"Condition" : "Excellent",
+				"Transmission" : "Automatic",
+				"KBB" : "$30000"
+			}
+}
